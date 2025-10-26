@@ -1,0 +1,7 @@
+django~=4.2.0 
+djangorestframework
+django-cors-headers
+celery
+drf-yasg
+django-environ
+mysqlclient
