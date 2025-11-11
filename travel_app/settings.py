@@ -51,6 +51,7 @@ INSTALLED_APPS = [
 
     'rest_framework',	
     'drf_yasg',
+    'django_seed',
     # Local apps
     'listings.apps.ListingsConfig',
 ]
